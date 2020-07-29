@@ -1,3 +1,3 @@
-# Web Design course
+# Web Design Course
 
-## Course Files and the project
+Course Files and the practical project
